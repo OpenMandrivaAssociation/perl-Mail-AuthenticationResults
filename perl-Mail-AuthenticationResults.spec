@@ -49,6 +49,6 @@ Differences from RFC7601
 %make_install
 
 %files
-%doc Changes LICENSE META.yml MYMETA.yml README
+%doc Changes LICENSE META.yml README
 %{_mandir}/man3/*
 %perl_vendorlib/*
