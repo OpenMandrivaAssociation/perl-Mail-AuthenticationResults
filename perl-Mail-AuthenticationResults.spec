@@ -13,6 +13,7 @@ Group:      Development/Perl
 Url:        http://metacpan.org/release/%{upstream_name}
 Source0:    https://cpan.metacpan.org/modules/by-module/Mail/%{upstream_name}-%{upstream_version}.tar.gz
 
+BuildRequires: perl-devel
 BuildRequires: perl(Carp)
 BuildRequires: perl(ExtUtils::MakeMaker)
 BuildRequires: perl(JSON)
