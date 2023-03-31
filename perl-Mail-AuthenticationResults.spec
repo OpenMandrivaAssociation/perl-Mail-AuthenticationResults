@@ -5,7 +5,7 @@
 
 Name:       perl-%{upstream_name}
 Version:    %perl_convert_version %{upstream_version}
-Release:    1
+Release:    2
 
 Summary:    Class for modelling AuthenticationResults Header parts detected as quoted strings
 License:    GPLv1+ or Artistic
