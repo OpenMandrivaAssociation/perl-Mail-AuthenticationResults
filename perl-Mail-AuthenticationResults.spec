@@ -10,7 +10,7 @@ Release:    2
 Summary:    Class for modelling AuthenticationResults Header parts detected as quoted strings
 License:    GPLv1+ or Artistic
 Group:      Development/Perl
-Url:        http://metacpan.org/release/%{upstream_name}
+Url:        https://metacpan.org/release/%{upstream_name}
 Source0:    https://cpan.metacpan.org/modules/by-module/Mail/%{upstream_name}-%{upstream_version}.tar.gz
 
 BuildRequires: perl-devel
