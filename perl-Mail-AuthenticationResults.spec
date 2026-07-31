@@ -2,8 +2,8 @@
 %{?perl_default_filter}
 
 Name:       perl-%{upstream_name}
-Version:    2.20210112
-Release:    3
+Version:    2.20260216
+Release:    1
 
 Summary:    Class for modelling AuthenticationResults Header parts detected as quoted strings
 License:    GPLv1+ or Artistic
@@ -34,7 +34,7 @@ the wild, but is not yet fully RFC7601 compliant
 Differences from RFC7601
 
 %prep
-%setup -q -n %{upstream_name}-%{version}
+%setup -q -n Mail-AuthenticationResults-2.20260216
 
 %build
 %{__perl} Makefile.PL INSTALLDIRS=vendor
