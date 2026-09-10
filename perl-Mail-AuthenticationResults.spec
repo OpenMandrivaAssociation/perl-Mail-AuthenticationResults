@@ -2,7 +2,7 @@
 %{?perl_default_filter}
 
 Name:       perl-%{upstream_name}
-Version:    2.20260216
+Version:	2.20260216
 Release:    1
 
 Summary:    Class for modelling AuthenticationResults Header parts detected as quoted strings
