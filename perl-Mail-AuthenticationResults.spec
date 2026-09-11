@@ -23,6 +23,7 @@ BuildRequires: perl(base)
 BuildRequires: perl(lib)
 BuildRequires: perl(strict)
 BuildRequires: perl(warnings)
+BuildRequires:	perl(Clone)
 BuildArch:  noarch
 
 %description
